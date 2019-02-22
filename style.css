@@ -1,0 +1,97 @@
+/**
+ * Float Layout Activity
+ **/
+
+ * {
+    text-align: center;
+  }
+  
+  body {
+    width: 960px;
+    font-size: 18px;
+    font: Arial;
+    line-height: 24px;
+    text-align: center;
+    color: #777;
+    background: #777
+  }
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #777;
+    background: #ebebeb;
+  }
+
+  nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #777;
+    background: #ebebeb;
+  }
+  
+  section {
+    float: left;
+    width: 495px;
+    height: 200px;
+    padding: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    color: #777;
+    background: #ebebeb;
+    border: 1px solid #eee;
+  }
+
+  aside {
+    float: right;
+    width: 35%;
+    height: 200px;
+    padding: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    color: #777;
+    background: #ebebeb;
+    border: 1px solid #eee;
+  }
+  article {
+    width: 490px;
+    height: 130px;
+    color: #ebebeb;
+    background: #777;
+  }
+
+ 
+  footer {
+    padding: 20px;
+    clear: both;
+    color: #777;
+    background: #ebebeb;
+  }
+  
+  .wrapper {
+    padding: 20px;
+    margin: 0 auto;
+    color: #ebebeb
+  }
+
+  .within {
+    margin: 20px;
+    width: 450px;
+    height: 30px;
+    color: #777;
+    background: #ebebeb;
+}
+  .paragraph {
+    margin: 20px;
+    width: 450px;
+    height: 30px;
+    color: #777;
+    background: #ebebeb;
+    }
+  
+ 
+  
