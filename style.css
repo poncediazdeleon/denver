@@ -94,6 +94,7 @@
    padding-top: 10px;
 
 }
+
   .paragraph {
     margin: 0 auto;
     width: 95%;
@@ -104,6 +105,9 @@
     color: #777;
     background: #ebebeb;
     }
-  
+  .paragraph h1 {
+    padding-top: 10px;
+    
+    }
  
   
